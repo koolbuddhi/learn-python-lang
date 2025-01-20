@@ -17,6 +17,15 @@ Welcome to Python Basics! This tutorial series will help you learn Python from s
 8. `08_classes_with_types.py` - Object-oriented programming with type hints
 9. `09_advanced_concepts.py` - Advanced Python features and patterns
 
+## Project Structure Tutorial
+
+10. `sample_project/` - A complete Python project structure example
+    - Shows proper project organization
+    - Demonstrates package imports
+    - Includes `__init__.py`, `__main__.py`, and other special files
+    - Contains setup.py and requirements management
+    - Demonstrates best practices for Python project structure
+
 ## How to Use This Tutorial
 
 1. Start with `01_introduction.py` and work your way through each file in order
